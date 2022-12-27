@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 
 import UserInterface from "./components/UserInterface"
-import StylesContext from "./components/StyleContext";
+import StylesContext from "./components/StylesContext";
 
 function App() {
   const styling = {
